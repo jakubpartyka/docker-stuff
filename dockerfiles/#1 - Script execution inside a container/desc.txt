@@ -1,0 +1,1 @@
+Simple script that createas a Docker container and executes another script copied from host's file system 
