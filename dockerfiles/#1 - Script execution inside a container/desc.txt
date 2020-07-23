@@ -1,1 +1,6 @@
-Simple script that createas a Docker container and executes another script copied from host's file system 
+A primitive training script that createas a Docker image, builds a container and executes another script copied from host's file system inside this container. 
+Script.sh is the one that will be run inside the container. 
+
+Run runMe.sh to create Docker image. You will be logged into the container's shell, user 'exit' to go back to host.
+
+Docker should be already installed on a host machine ;)
